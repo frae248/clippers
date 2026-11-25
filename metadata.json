@@ -1,0 +1,6 @@
+{
+  "name": "CLIPFORGE",
+  "description": "AI-assisted long-form to short-form video clipping, transcription, and cinematic subtitle studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
